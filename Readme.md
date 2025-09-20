@@ -33,4 +33,4 @@ This project is a modern streaming website homepage UI, built with HTML, CSS (us
 ![Movie Website Tutorial](img/thumbnail.jpg)
 
 I've created a video tutorial for this project on my YouTube channel. You can watch it here:
-**[[Watch Tutorial]( https://youtu.be/8nQIMnFPCKs?si=xjHBd9bIurdWntja]**
+**[[Watch Tutorial]( https://youtu.be/8nQIMnFPCKs?si=xjHBd9bIurdWntja)]**
