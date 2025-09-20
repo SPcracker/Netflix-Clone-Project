@@ -1,5 +1,7 @@
 # Netflix India Clone
 
+![Netflix Project](img/demo.png)
+
 This project is a clone of the Netflix India homepage, built with HTML, CSS (using Tailwind CSS), and JavaScript. It's a great example of, modern web page with dynamic elements.
 
 ## Features
@@ -27,5 +29,7 @@ This project is a clone of the Netflix India homepage, built with HTML, CSS (usi
 3.  **Open `index.html`:** Simply open the `index.html` file in your web browser to view the project.
 
 ## Video Tutorial
+
+![Netflix Project](img/thumbnail.jpg)
 
 I've created a video tutorial for this project on my YouTube channel. You can watch it here: https://youtu.be/8nQIMnFPCKs?si=xjHBd9bIurdWntja
